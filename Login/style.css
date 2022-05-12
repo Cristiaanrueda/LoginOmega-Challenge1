@@ -1,3 +1,15 @@
+.contenedor__form {
+    /* border: 2px solid black;
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: -20rem;
+    background: rgb(0, 0, 0); */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
 .contenedor {
     border: 2px solid black;
     height: 600px;
@@ -5,9 +17,13 @@
     margin: 0 auto;
     margin-top: -20rem;
     background: rgb(0, 0, 0);
-    justify-content: center;
-    align-items: center;
-    display: flex;
+    text-align: center;
+}
+
+.contenedor h2 {
+    font-size: 4rem;
+    margin-top: 8rem;
+    text-decoration: underline;
 }
 
 
@@ -16,7 +32,7 @@
     margin-top: -5rem;
 }
 
-.contenedor form {
+.contenedor__form form {
     text-align: center;
 }
 

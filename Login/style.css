@@ -1,0 +1,93 @@
+.contenedor {
+    border: 2px solid black;
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: -20rem;
+    background: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.logo {
+    text-align: center;
+    margin-top: -5rem;
+}
+
+.contenedor form {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin: 3rem;
+}
+
+.icons {
+    font-size: 2.5rem;
+    color: red;
+}
+
+.input--size{
+    height: 4rem;
+    width: 30rem;
+    margin-left: 1rem;
+}
+
+.FgtPwd {
+    display: flex;
+    float: right;
+    text-decoration: none;
+    color: red;
+    font-size: 1rem;
+    margin-top: -2rem;
+}
+
+.recordarme__container {
+    display: flex;
+    align-items: center;
+    color: red;
+   
+}
+
+.recordarme--item {
+    float: left;
+    font-size: 4rem;
+    
+}
+
+.login--item {
+    height: 4rem;
+    width: 35rem;
+    margin-top: -10rem;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+    font-size: 1.2rem;
+}
+
+.bottom a {
+    text-decoration: none;
+    color: red;
+}
+
+.bottom--margin-register {
+    margin-right: 1rem;
+}
+
+.bottom--margin-inicio {
+    margin-left: 1rem;
+}
+
+hr {
+    margin: 0;
+}
+
+.recordarmeLogin__wrapper {
+    margin-top: 6rem;
+}

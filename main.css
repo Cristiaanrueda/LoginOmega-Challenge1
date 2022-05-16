@@ -1,3 +1,13 @@
+:root {
+    --color-inputs: linear-gradient(
+        0deg, 
+        rgba(105,3,3,0.7539216370141807) 7%, 
+        rgba(55,10,10,0.8435574913559174) 46%, 
+        rgba(105,3,3,0.8799720571822479) 56%
+        ); 
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Arimo&family=BIZ+UDGothic&family=Bebas+Neue&family=Exo:ital,wght@1,300&family=Hubballi&family=Lato:wght@300&family=Mohave:ital,wght@1,600&family=Open+Sans:wght@700&family=PT+Sans+Narrow&family=Roboto:wght@300&family=Smooch+Sans:wght@100&family=Teko:wght@300&display=swap');
 
 
